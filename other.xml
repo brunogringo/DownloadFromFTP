@@ -1,0 +1,20 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6742532" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="file.gist.reindex.count" value="6358" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="lastTip" value="17" />
+    <property name="python.packaging.author" value="baugusto" />
+  </component>
+</application>
