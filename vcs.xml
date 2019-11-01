@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/brunogringo/DownloadFromFTP.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://monumenta.visualstudio.com" />
+          <option name="userName" value="bra.bruno18@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\baugusto\PycharmProjects" />
